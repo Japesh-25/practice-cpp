@@ -1,5 +1,6 @@
 #include "jvector.h"
 #include <iostream>
+#include <memory>
 
 namespace jw {
 

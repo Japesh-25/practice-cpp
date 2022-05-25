@@ -1,5 +1,6 @@
 #ifndef PRACTICE_CPP_JARRAY_H
 #define PRACTICE_CPP_JARRAY_H
+#include <memory> // include this to use std::unique_ptr
 
 namespace jw {
 
